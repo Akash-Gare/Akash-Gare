@@ -4,7 +4,7 @@ Aspiring AI/ML Engineer from India 🇮🇳 | Currently Pursuing MCS | Skilled i
 
 
 💫 About Me:<br>
-🔭 I’m currently working on: Building an AI-powered Instagram automation system that generates content, predicts optimal posting time using data science, and automatically schedules and posts content.<br>🌱 I’m currently learning: Generative AI (GenAI)<br>- Agentic AI<br>- Data Science & Machine Learning<br><br>
+🔭 I’m currently working on: Building an AI-powered Instagram automation system that generates content, predicts optimal posting time using data science, and automatically schedules and posts content.<br>🌱 I’m currently learning: Generative AI (GenAI), Agentic AI, Data Science & Machine Learning<br><br>
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akash_17.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-gare-6181142bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashgare517@gmail.com) 
 
