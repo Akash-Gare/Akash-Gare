@@ -1,3 +1,8 @@
+Hi 👋, I'm Akash Gare
+
+Aspiring AI/ML Engineer from India 🇮🇳 | Currently Pursuing MCS | Skilled in Python Development, Django & AI-Based Solutions
+
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>- ATS Job Portal AI-Based Resume Screening and Job Recommendation System<br>- Building an AI-powered Instagram automation system that generates content, predicts optimal posting time using data science, and automatically schedules and posts content.<br><br>🌱 I’m currently learning:<br>- Generative AI (GenAI)<br>- Agentic AI<br>- Data Science & Machine Learning<br><br>
 ## 🌐 Socials:
