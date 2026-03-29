@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>- ATS Job Portal AI-Based Resume Screening and Job Recommendation System<br><br>🌱 I’m currently learning:<br>- Generative AI (GenAI)<br>- Agentic AI<br>- Django Advanced Concepts<br>- Data Science & Machine Learning<br><br>💬 Ask me about:<br>- Python<br>- Django<br>- Generative AI<br>- Agentic AI<br><br>
+🔭 I’m currently working on:<br>- ATS Job Portal AI-Based Resume Screening and Job Recommendation System<br>- Building an AI-powered Instagram automation system that generates content, predicts optimal posting time using data science, and automatically schedules and posts content.<br><br>🌱 I’m currently learning:<br>- Generative AI (GenAI)<br>- Agentic AI<br>- Data Science & Machine Learning<br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akash_17.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-gare-6181142bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashgare517@gmail.com) 
 
