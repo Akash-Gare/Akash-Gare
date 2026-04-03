@@ -19,8 +19,8 @@
 ## 🚀 Current Work & Learning
 
 🔭 **Currently Working On:**
-- Flipkart Clone (E-commerce Website)  
-- AI-based Student Health Detection System  
+- ATS AI – Applicant Tracking System & Interview Simulator  
+- AI-Powered Instagram Automation System  
 
 🌱 **Currently Learning:**
 - Generative AI (GenAI)  
@@ -45,8 +45,10 @@ _I turn coffee into code ☕💻_
 ## 🚀 Featured Projects
 
 🔹 **Flipkart Clone** – Full-stack e-commerce platform  
-🔹 **Student Health Detection** – Face-based AI system  
-🔹 **Mobile Restriction Monitoring** – Django + Network Sniffer  
+🔹 **ATS AI – Applicant Tracking System & Interview Simulator**  
+   AI-based system for job matching, resume analysis, and interview simulation with automated evaluation  
+🔹 **AI-Powered Instagram Automation System**  
+   System for content generation, optimal posting time prediction, and automated scheduling  
 
 ---
 
@@ -63,7 +65,7 @@ _I turn coffee into code ☕💻_
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,tensorflow,pytorch,mongodb,mysql,postgres,aws,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,django,fastapi,mysql,postgres,html,css,bootstrap,git,github,aws" />
 </p>
 
 ---
@@ -92,7 +94,7 @@ _I turn coffee into code ☕💻_
 ## 🏆 Achievements
 
 - 🚀 Built multiple AI & Django-based real-world projects  
-- 🐳 Hands-on experience with Docker & DevOps  
+- 🐳 Hands-on experience with GenAI & Agentic AI  
 - 📊 Strong foundation in Data Science & Machine Learning  
 
 ---
