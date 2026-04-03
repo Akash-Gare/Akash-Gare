@@ -74,7 +74,7 @@ _I turn coffee into code ☕💻_
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash-Gare&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Gare&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Akash-Gare&theme=tokyonight" />
 </p>
 
 <p align="center">
