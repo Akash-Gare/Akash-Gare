@@ -70,13 +70,17 @@ _I turn coffee into code ☕💻_
 
 ---
 
+bhai isme se do image show nahi ho raha hai 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-Gare&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Gare&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Akash-Gare&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Akash-Gare&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Gare&layout=compact&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Gare&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
